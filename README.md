@@ -3,7 +3,7 @@
 
 ## Class List:
 
-ECE 407 -- Pattern Recognition/Machine Learning
-ECE 350 -- Principle of Auto Control
-ECE 418 -- Statistical Digital Signal Processing
-ECE 367 -- Senior Design
+ECE 407 -- Pattern Recognition/Machine Learning  
+ECE 350 -- Principle of Auto Control   
+ECE 418 -- Statistical Digital Signal Processing  
+ECE 367 -- Senior Design  
